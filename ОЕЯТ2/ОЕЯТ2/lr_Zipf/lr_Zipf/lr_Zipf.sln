@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr_Zipf", "lr_Zipf\lr_Zipf.vcxproj", "{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05A9E54D-40BB-43D8-A7B1-CB86C9C72DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Debug|x64.ActiveCfg = Debug|x64
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Debug|x64.Build.0 = Debug|x64
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Debug|x86.Build.0 = Debug|Win32
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Release|x64.ActiveCfg = Release|x64
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Release|x64.Build.0 = Release|x64
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Release|x86.ActiveCfg = Release|Win32
+		{B3715E80-3AAD-4FBD-BE6C-CD230E9A611E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A3DE83-101F-4E37-B8F7-0D175D12D4E0}
+	EndGlobalSection
+EndGlobal
